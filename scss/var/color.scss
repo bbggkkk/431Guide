@@ -1,0 +1,64 @@
+:root {
+    /* 커스텀 컬러 */
+    --c-primary       : #1167AB;
+    --c-secondary     : #FFC72C;
+    --c-tertiary      : #2F3539;
+
+    --c-primary-rgb   : 17, 103, 171;
+    --c-secondary-rgb : 255, 199, 44;
+    --c-tertiary-rgb  : 47, 53, 57;
+
+    --c-primary-hsl   : 206, 82%, 37%;
+    --c-secondary-hsl : 44, 100%, 59%;
+    --c-tertiary-hsl  : 204, 10%, 20%;
+
+    --c-primary-50      : #E8F3FD;
+    --c-primary-100     : #B9DCF8;
+    --c-primary-200     : #8BC5F3;
+    --c-primary-300     : #5DAEEF;
+    --c-primary-400     : #2E97EA;
+    --c-primary-500     : #157ED1;
+    --c-primary-600     : #1062A2;
+    --c-primary-700     : #0C4674;
+    --c-primary-800     : #072A46;
+    --c-primary-900     : #020E17;
+
+    --c-secondary-50    : #FFF8E5;
+    --c-secondary-100   : #FFEBB3;
+    --c-secondary-200   : #FFDD80;
+    --c-secondary-300   : #FFD04D;
+    --c-secondary-400   : #FFC21A;
+    --c-secondary-500   : #E6A900;
+    --c-secondary-600   : #B38300;
+    --c-secondary-700   : #805E00;
+    --c-secondary-800   : #4D3800;
+    --c-secondary-900   : #1A1300;
+
+    --c-tertiary-50     : #F1F2F3;
+    --c-tertiary-100    : #D5D9DC;
+    --c-tertiary-200    : #B9C0C5;
+    --c-tertiary-300    : #9DA7AE;
+    --c-tertiary-400    : #818E97;
+    --c-tertiary-500    : #68757E;
+    --c-tertiary-600    : #515B62;
+    --c-tertiary-700    : #3A4146;
+    --c-tertiary-800    : #23272A;
+    --c-tertiary-900    : #0C0D0E;
+    /* 커스텀 컬러 */
+
+    /* 시스템 컬러 */
+    --c-success    : #11AB59;
+    --c-warn       : #FFC72C;
+    --c-danger     : #EE3333;
+    --c-active     : #1167AB;
+
+    --c-base-ui    : #A7ADB1;
+    --c-disable-ui : #DDE3E7;
+    /* 시스템 컬러 */
+
+    /* 배경 */
+    --c-paper     : #fff;
+    --c-paper-rgb : 255, 255, 255;
+    --c-paper-hsl : 0, 0%, 100%;
+    /* 배경 */
+}

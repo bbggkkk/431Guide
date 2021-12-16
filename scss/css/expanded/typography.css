@@ -1,0 +1,70 @@
+@charset "UTF-8";
+:root {
+  /* 색깔 */
+  --t-color-25: #fff;
+  --t-color-50: #f7f7f7;
+  --t-color-100: #dde3e7;
+  --t-color-200: #c2c8cc;
+  --t-color-300: #a7adb1;
+  --t-color-400: #8d9397;
+  --t-color-500: #747a7e;
+  --t-color-600: #5c6266;
+  --t-color-700: #444b4f;
+  --t-color-800: #2f3539;
+  --t-color-900: #1a2024;
+  --t-color-950: #0f0f0f;
+  --t-color-975: #000;
+  --t-color-25-rgb: 255, 255, 255;
+  --t-color-50-rgb: 247, 247, 247;
+  --t-color-100-rgb: 221, 227, 231;
+  --t-color-200-rgb: 194, 200, 204;
+  --t-color-300-rgb: 167, 173, 177;
+  --t-color-400-rgb: 141, 147, 151;
+  --t-color-500-rgb: 116, 122, 126;
+  --t-color-600-rgb: 92, 98, 102;
+  --t-color-700-rgb: 68, 75, 79;
+  --t-color-800-rgb: 47, 53, 57;
+  --t-color-900-rgb: 26, 32, 36;
+  --t-color-950-rgb: 15, 15, 15;
+  --t-color-975-rgb: 0, 0, 0;
+  --t-color25-hsl: 0, 0%, 100%;
+  --t-color50-hsl: 0, 0%, 97%;
+  --t-color100-hsl: 204, 17%, 89%;
+  --t-color200-hsl: 204, 9%, 78%;
+  --t-color300-hsl: 204, 6%, 67%;
+  --t-color400-hsl: 204, 5%, 57%;
+  --t-color500-hsl: 204, 4%, 47%;
+  --t-color600-hsl: 204, 5%, 38%;
+  --t-color700-hsl: 202, 7%, 29%;
+  --t-color800-hsl: 204, 10%, 20%;
+  --t-color900-hsl: 204, 16%, 12%;
+  --t-color950-hsl: 0, 0%, 6%;
+  --t-color975-hsl: 0, 0%, 0%;
+  --t-base-ui: #1A2024;
+  --t-disable-ui: #A7ADB1;
+  /* 색깔 */
+  /* 크기 */
+  --t-size-head-1: 8rem;
+  --t-size-head-2: 6rem;
+  --t-size-head-3: 4.75rem;
+  --t-size-title-1: 2rem;
+  --t-size-title-2: 1.75rem;
+  --t-size-title-3: 1.5rem;
+  --t-size-subtitle-1: 1.25rem;
+  --t-size-subtitle-2: 1rem;
+  --t-size-subtitle-3: 0.875rem;
+  --t-size-body-1: 1rem;
+  --t-size-body-2: 0.875rem;
+  --t-size-body-3: 0.75rem;
+  --t-size-ui-1: 0.875rem;
+  --t-size-ui-2: 0.75rem;
+  --t-size-ui-3: 0.6875rem;
+  /* 크기 */
+  /* weight */
+  --t-weight-light: 100;
+  --t-weight-normal: 400;
+  --t-weight-bold: 700;
+  --t-weight-black: 900;
+  /* weight */
+}
+/*# sourceMappingURL=typography.css.map */
